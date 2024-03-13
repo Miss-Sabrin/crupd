@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914942552899",
+    "project_id": "crupd-a2d62",
+    "storage_bucket": "crupd-a2d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914942552899:android:aeb2591e1bb9672c7c5df6",
+        "android_client_info": {
+          "package_name": "com.example.crupd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMc1fWnCVCFT-h8zgFy6t0C-LVwc5rvQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
